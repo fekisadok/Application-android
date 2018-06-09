@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="register_title">Inscription</string>
+    <string name="update_email">Modifier l\'adresse mail : </string>
+    <string name="update_password">Modifier le mot de passe : </string>
+    <string name="update_title">Modifier vos données</string>
+    <string name="email">Adresse mail</string>
+    <string name="newemail">Nouvelle adresse mail</string>
+    <string name="newemailconfirm">Confirmation adresse mail</string>
+    <string name="newville">Ville</string>
+    <string name="newpays">Pays</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="newpseudo">Nouveau pseudo</string>
+    <string name="password">Mot de passe</string>
+    <string name="oldpassword">Ancien mot de passe</string>
+    <string name="newpassword">Nouveau mot de passe</string>
+    <string name="newpasswordconfirm">Confirmation mot de passe</string>
+    <string name="password2">Confirmation mot de passe</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_title">Connexion</string>
+    <string name="pseudo_email">Pseudo ou Adresse mail</string>
+    <string name="title_activity_premiere">PremiereActivity</string>
+    <string name="logout">Déconnexion</string>
+    <string name="modify">Modifier vos données</string>
+    <string name="update">Mettre à jour !</string>
+    <string name="micropost">Publication ...</string>
+    <string name="Publier">Publier</string>
+    <string name="todo">TODO</string>
+</resources>
